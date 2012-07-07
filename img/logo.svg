@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="120"
-   height="120"
+   width="150"
+   height="150"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="183.23988"
+     inkscape:cx="184.25003"
      inkscape:cy="61.32658"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -51,10 +51,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-932.36218)">
+     transform="translate(0,-902.36218)">
     <g
        id="g2989"
-       transform="matrix(0.21504792,0.21504792,-0.21504792,0.21504792,79.081162,829.06544)"
+       transform="matrix(0.26789869,0.26789869,-0.26789869,0.26789869,98.307781,774.35331)"
        inkscape:export-filename="/home/nacho/Projects/boko/img/logo.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -75,9 +75,9 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:31.83893585px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#f2f2f2;stroke-width:0.44220743;font-family:Sans"
-       x="50.634525"
-       y="975.94403"
+       style="font-size:39.66376114px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#f2f2f2;stroke-width:0.55088556;font-family:Sans"
+       x="62.870022"
+       y="957.32916"
        id="text2993"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/nacho/Projects/boko/img/logo.png"
@@ -85,14 +85,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan2995"
-         x="50.634525"
-         y="975.94403"
-         style="stroke-width:0.44220743">B</tspan></text>
+         x="62.870022"
+         y="957.32916"
+         style="stroke-width:0.55088556">B</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:29.22973251px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#f2f2f2;stroke-width:0.40596852;font-family:Sans"
-       x="75.08577"
-       y="1000.5666"
+       style="font-size:36.413311px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#f2f2f2;stroke-width:0.50574046;font-family:Sans"
+       x="93.330467"
+       y="988.00305"
        id="text2993-7"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/nacho/Projects/boko/img/logo.png"
@@ -100,14 +100,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan2995-2"
-         x="75.08577"
-         y="1000.5666"
-         style="stroke-width:0.40596852">O</tspan></text>
+         x="93.330467"
+         y="988.00305"
+         style="stroke-width:0.50574046">O</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:30.96169472px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#f2f2f2;stroke-width:0.43002358;font-family:Sans"
-       x="49.116959"
-       y="1028.073"
+       style="font-size:38.57092667px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#f2f2f2;stroke-width:0.53570735;font-family:Sans"
+       x="60.979492"
+       y="1022.2695"
        id="text2993-8"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/nacho/Projects/boko/img/logo.png"
@@ -115,14 +115,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan2995-8"
-         x="49.116959"
-         y="1028.073"
-         style="stroke-width:0.43002358">K</tspan></text>
+         x="60.979492"
+         y="1022.2695"
+         style="stroke-width:0.53570735">K</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:29.27801514px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#f2f2f2;stroke-width:0.40663907;font-family:Sans"
-       x="22.252762"
-       y="999.8642"
+       style="font-size:36.47346115px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#f2f2f2;stroke-width:0.50657582;font-family:Sans"
+       x="27.513079"
+       y="987.12805"
        id="text2993-0"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/nacho/Projects/boko/img/logo.png"
@@ -130,8 +130,8 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan2995-4"
-         x="22.252762"
-         y="999.8642"
-         style="stroke-width:0.40663907">O</tspan></text>
+         x="27.513079"
+         y="987.12805"
+         style="stroke-width:0.50657582">O</tspan></text>
   </g>
 </svg>
