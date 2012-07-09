@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="184.25003"
+     inkscape:cx="93.841378"
      inkscape:cy="61.32658"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,86 +52,72 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-902.36218)">
-    <g
-       id="g2989"
-       transform="matrix(0.26789869,0.26789869,-0.26789869,0.26789869,98.307781,774.35331)"
+    <rect
+       style="fill:#ff80e5;stroke:#911c72;stroke-width:3.63060308;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2993"
+       width="101.58871"
+       height="101.58871"
+       x="693.33807"
+       y="587.26672"
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
        inkscape:export-filename="/home/nacho/Projects/boko/img/logo.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <rect
-         y="283.79074"
-         x="197.14285"
-         height="277.14285"
-         width="277.14285"
-         id="rect2985"
-         style="fill:#800080" />
-      <rect
-         y="306.64789"
-         x="220"
-         height="228.57143"
-         width="228.57143"
-         id="rect2987"
-         style="fill:#ff00ff" />
-    </g>
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-size:39.66376114px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#f2f2f2;stroke-width:0.55088556;font-family:Sans"
-       x="62.870022"
-       y="957.32916"
-       id="text2993"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#911c72;stroke-opacity:1;font-family:Sans"
+       x="61.619305"
+       y="951.86218"
+       id="text5213"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/nacho/Projects/boko/img/logo.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         id="tspan2995"
-         x="62.870022"
-         y="957.32916"
-         style="stroke-width:0.55088556">B</tspan></text>
+         id="tspan5215"
+         x="61.619305"
+         y="951.86218">B</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:36.413311px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#f2f2f2;stroke-width:0.50574046;font-family:Sans"
-       x="93.330467"
-       y="988.00305"
-       id="text2993-7"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#911c72;stroke-opacity:1;font-family:Sans"
+       x="61.574219"
+       y="1029.1022"
+       id="text5213-9"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/nacho/Projects/boko/img/logo.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         id="tspan2995-2"
-         x="93.330467"
-         y="988.00305"
-         style="stroke-width:0.50574046">O</tspan></text>
+         id="tspan5215-7"
+         x="61.574219"
+         y="1029.1022">K</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:38.57092667px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#f2f2f2;stroke-width:0.53570735;font-family:Sans"
-       x="60.979492"
-       y="1022.2695"
-       id="text2993-8"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#911c72;stroke-opacity:1;font-family:Sans"
+       x="99.879646"
+       y="990.29578"
+       id="text5213-6"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/nacho/Projects/boko/img/logo.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         id="tspan2995-8"
-         x="60.979492"
-         y="1022.2695"
-         style="stroke-width:0.53570735">K</tspan></text>
+         id="tspan5215-5"
+         x="99.879646"
+         y="990.29578">O</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:36.47346115px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#f2f2f2;stroke-width:0.50657582;font-family:Sans"
-       x="27.513079"
-       y="987.12805"
-       id="text2993-0"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#911c72;stroke-opacity:1;font-family:Sans"
+       x="18.582691"
+       y="990.29578"
+       id="text5213-6-8"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/nacho/Projects/boko/img/logo.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         id="tspan2995-4"
-         x="27.513079"
-         y="987.12805"
-         style="stroke-width:0.50657582">O</tspan></text>
+         id="tspan5215-5-9"
+         x="18.582691"
+         y="990.29578">O</tspan></text>
   </g>
 </svg>
