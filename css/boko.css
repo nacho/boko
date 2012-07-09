@@ -1,5 +1,6 @@
 body {
   padding-top: 40px; /* 60px to make the container go all the way to the bottom of the topbar */
+  padding-bottom: 40px;
 }
 
 section {
@@ -11,6 +12,9 @@ section {
   border-width: 5px;
   border-style: solid;
   border-radius: 15px;
+  background-color: #FFC3E3;
+  background-image: url(../img/grid-18px-masked.png);
+  background-repeat: repeat-x;
   padding: 12px;
 }
 
