@@ -37,8 +37,22 @@ section {
 }
 
 .contactinfo p {
-  font-size: 16px;
+  font-size: 18px;
   margin-left: 20px;
+}
+
+.company {
+  font-size: 18px;
+  margin-left: 6px;
+}
+
+.company li {
+  margin-top: 20px;
+}
+
+.company ul {
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .map {
