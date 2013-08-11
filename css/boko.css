@@ -55,6 +55,10 @@ section {
   margin-bottom: 20px;
 }
 
+.company img {
+  float: right;
+}
+
 .map {
   float: right;
 }
