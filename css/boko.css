@@ -25,6 +25,22 @@ section {
   float: left;
 }
 
+.contactinfo {
+  margin-left: 6px;
+  float: left;
+}
+
+.contactinfo h1 {
+  color: #3465a4;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.contactinfo p {
+  font-size: 16px;
+  margin-left: 20px;
+}
+
 .map {
   float: right;
 }
