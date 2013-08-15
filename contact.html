@@ -49,12 +49,14 @@
         <div class="page-header">
           <h1>Informacje kontaktowe</h1>
         </div>
-        <div class="contactinfo">
+        <div class="contactinfo" itemscope itemtype="http://schema.org/Organization">
           <h1>Telefon</h1>
-          <p>33 817 45 30</p>
-          <h1>Adres</h1>
-          <p>Jaśminowa 5</p>
-          <p>43-340 Kozy</p>
+          <p><span itemprop="telephone">33 817 45 30</span></p>
+          <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+            <h1>Adres</h1>
+            <p><span itemprop="streetAddress">Jaśminowa 5</span></p>
+            <p><span itemprop="postalCode">43-340</span> <span itemprop="addressLocality">Kozy</span></p>
+          </div>
           <h1>Otwarte</h1>
           <p><b>Poniedziałek, Wtorek, Środa</b></p>
           <p>W godzinach: 9 - 17</p>
