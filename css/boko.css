@@ -25,6 +25,14 @@ section {
   float: left;
 }
 
+.cookie-alert {
+  margin-top: 20px;
+}
+
+#contact {
+  overflow: hidden;
+}
+
 .contactinfo {
   margin-left: 6px;
   float: left;
@@ -44,6 +52,7 @@ section {
 .company {
   font-size: 18px;
   margin-left: 6px;
+  overflow: hidden;
 }
 
 .company li {
