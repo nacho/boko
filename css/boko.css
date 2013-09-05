@@ -21,6 +21,20 @@ section {
   padding: 12px;
 }
 
+.title {
+  overflow: hidden;
+}
+
+.title h1 {
+  float: left;
+}
+
+.title .telefon {
+  float: right;
+  font-size: 20px;
+  margin-top: 2px;
+}
+
 #logo {
   float: left;
 }
