@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="100"
@@ -19,7 +20,32 @@
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
-     id="defs4" />
+     id="defs4">
+    <linearGradient
+       id="linearGradient3871">
+      <stop
+         style="stop-color:#e674cc;stop-opacity:1;"
+         offset="0"
+         id="stop3873" />
+      <stop
+         id="stop3879"
+         offset="0.5"
+         style="stop-color:#e674cc;stop-opacity:0.49803922;" />
+      <stop
+         style="stop-color:#e674cc;stop-opacity:0;"
+         offset="1"
+         id="stop3875" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3871"
+       id="linearGradient3877"
+       x1="714.0379"
+       y1="642.60864"
+       x2="818.08215"
+       y2="745.39166"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,14 +53,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="-83.945469"
-     inkscape:cy="61.32658"
+     inkscape:zoom="5.6"
+     inkscape:cx="40.372449"
+     inkscape:cy="37.966514"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1021"
+     inkscape:window-height="1014"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
@@ -56,7 +82,7 @@
      id="layer1"
      transform="translate(0,-952.36218)">
     <rect
-       style="fill:#e674cc;fill-opacity:1;stroke:#8d1c6e;stroke-width:4.73695374;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:url(#linearGradient3877);fill-opacity:1;stroke:#8d1c6e;stroke-width:3.00000000999999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect2993"
        width="64.678696"
        height="64.678696"
@@ -68,7 +94,7 @@
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-size:27.06830978px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#911c72;stroke-width:0.67670774;stroke-opacity:1;font-family:Sans"
+       style="font-size:27.06830977999999988px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.39215687;stroke:#911c72;stroke-width:0.67670774000000000;stroke-opacity:1;font-family:Sans"
        x="42.13377"
        y="989.01544"
        id="text5213"
@@ -80,10 +106,10 @@
          id="tspan5215"
          x="42.13377"
          y="989.01544"
-         style="stroke-width:0.67670774">B</tspan></text>
+         style="stroke-width:0.67670774000000000;fill:#ffffff;fill-opacity:0.39215687">B</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:27.06830978px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#911c72;stroke-width:0.67670774;stroke-opacity:1;font-family:Sans"
+       style="font-size:27.06830977999999988px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.39215687;stroke:#911c72;stroke-width:0.67670774000000000;stroke-opacity:1;font-family:Sans"
        x="41.747734"
        y="1033.7788"
        id="text5213-9"
@@ -95,10 +121,10 @@
          id="tspan5215-7"
          x="41.747734"
          y="1033.7788"
-         style="stroke-width:0.67670774">K</tspan></text>
+         style="stroke-width:0.67670774000000000;fill:#ffffff;fill-opacity:0.39215687">K</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:27.06830978px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#911c72;stroke-width:0.67670774;stroke-opacity:1;font-family:Sans"
+       style="font-size:27.06830977999999988px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.39215687;stroke:#911c72;stroke-width:0.67670774000000000;stroke-opacity:1;font-family:Sans"
        x="15.403079"
        y="1012.2894"
        id="text5213-6"
@@ -110,10 +136,10 @@
          id="tspan5215-5"
          x="15.403079"
          y="1012.2894"
-         style="stroke-width:0.67670774">O</tspan></text>
+         style="stroke-width:0.67670774000000000;fill:#ffffff;fill-opacity:0.39215687">O</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:27.06830978px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#911c72;stroke-width:0.67670774;stroke-opacity:1;font-family:Sans"
+       style="font-size:27.06830977999999988px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.39215687;stroke:#911c72;stroke-width:0.67670774000000000;stroke-opacity:1;font-family:Sans"
        x="63.923378"
        y="1011.9611"
        id="text5213-6-8"
@@ -125,6 +151,6 @@
          id="tspan5215-5-9"
          x="63.923378"
          y="1011.9611"
-         style="stroke-width:0.67670774">O</tspan></text>
+         style="stroke-width:0.67670774000000000;fill:#ffffff;fill-opacity:0.39215687">O</tspan></text>
   </g>
 </svg>
