@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -14,13 +15,58 @@
    height="100"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="logo.svg"
    inkscape:export-filename="/home/nacho/Projects/boko/img/logo.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
      id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5657">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5659" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop5661" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5649">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5651" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop5653" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5627"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5629" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4183"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#800080;stop-opacity:1;"
+         offset="0"
+         id="stop4185" />
+      <stop
+         style="stop-color:#800080;stop-opacity:0;"
+         offset="1"
+         id="stop4187" />
+    </linearGradient>
     <linearGradient
        id="linearGradient3871">
       <stop
@@ -38,12 +84,21 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3871"
-       id="linearGradient3877"
-       x1="714.0379"
-       y1="642.60864"
-       x2="818.08215"
-       y2="745.39166"
+       xlink:href="#linearGradient5649"
+       id="linearGradient5655"
+       x1="44.452023"
+       y1="979.14899"
+       x2="59.125479"
+       y2="979.14899"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5657"
+       id="linearGradient5663"
+       x1="65.104973"
+       y1="1002.1079"
+       x2="84.047503"
+       y2="1002.1079"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -54,13 +109,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6"
-     inkscape:cx="40.372449"
-     inkscape:cy="37.966514"
+     inkscape:cx="8.9438776"
+     inkscape:cy="44.752228"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1014"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
@@ -72,7 +127,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -82,7 +137,7 @@
      id="layer1"
      transform="translate(0,-952.36218)">
     <rect
-       style="fill:url(#linearGradient3877);fill-opacity:1;stroke:#8d1c6e;stroke-width:3.00000000999999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#ff55dd;fill-opacity:1;stroke:#800080;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect2993"
        width="64.678696"
        height="64.678696"
@@ -94,7 +149,7 @@
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-size:27.06830977999999988px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.39215687;stroke:#911c72;stroke-width:0.67670774000000000;stroke-opacity:1;font-family:Sans"
+       style="font-size:27.06830978px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#800080;stroke-width:0.67670774;stroke-opacity:1;font-family:Sans;"
        x="42.13377"
        y="989.01544"
        id="text5213"
@@ -106,10 +161,10 @@
          id="tspan5215"
          x="42.13377"
          y="989.01544"
-         style="stroke-width:0.67670774000000000;fill:#ffffff;fill-opacity:0.39215687">B</tspan></text>
+         style="stroke-width:0.67670774;fill:#ffffff;fill-opacity:1;stroke:#800080;">B</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:27.06830977999999988px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.39215687;stroke:#911c72;stroke-width:0.67670774000000000;stroke-opacity:1;font-family:Sans"
+       style="font-size:27.06830978px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#800080;stroke-width:0.67670774;stroke-opacity:1;font-family:Sans;"
        x="41.747734"
        y="1033.7788"
        id="text5213-9"
@@ -121,10 +176,10 @@
          id="tspan5215-7"
          x="41.747734"
          y="1033.7788"
-         style="stroke-width:0.67670774000000000;fill:#ffffff;fill-opacity:0.39215687">K</tspan></text>
+         style="stroke-width:0.67670774;fill:#ffffff;fill-opacity:1;stroke:#800080;">K</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:27.06830977999999988px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.39215687;stroke:#911c72;stroke-width:0.67670774000000000;stroke-opacity:1;font-family:Sans"
+       style="font-size:27.06830978px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#800080;stroke-width:0.67670774;stroke-opacity:1;font-family:Sans;"
        x="15.403079"
        y="1012.2894"
        id="text5213-6"
@@ -136,10 +191,10 @@
          id="tspan5215-5"
          x="15.403079"
          y="1012.2894"
-         style="stroke-width:0.67670774000000000;fill:#ffffff;fill-opacity:0.39215687">O</tspan></text>
+         style="stroke-width:0.67670774;fill:#ffffff;fill-opacity:1;stroke:#800080;">O</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:27.06830977999999988px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.39215687;stroke:#911c72;stroke-width:0.67670774000000000;stroke-opacity:1;font-family:Sans"
+       style="font-size:27.06830978px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#800080;stroke-width:0.67670774;stroke-opacity:1;font-family:Sans;"
        x="63.923378"
        y="1011.9611"
        id="text5213-6-8"
@@ -151,6 +206,6 @@
          id="tspan5215-5-9"
          x="63.923378"
          y="1011.9611"
-         style="stroke-width:0.67670774000000000;fill:#ffffff;fill-opacity:0.39215687">O</tspan></text>
+         style="stroke-width:0.67670774;fill:#ffffff;fill-opacity:1;stroke:#800080;">O</tspan></text>
   </g>
 </svg>
